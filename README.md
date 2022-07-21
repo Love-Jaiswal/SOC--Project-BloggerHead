@@ -1,5 +1,7 @@
 # SOC--Project-BloggerHead
-A MERN Stack web development project under Wncc, IIT Bombay 
+A MERN Stack web development project under Wncc, IIT Bombay
+
+ 
 Week 1 : started with learning HTML, CSS, Javascript, Bootstrap.
 Week 2-3: started with MERN
 Week 4 : Getting familiarised with all the contents till week 3 we kickstarted the project.
